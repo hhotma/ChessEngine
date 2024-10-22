@@ -1,0 +1,14 @@
+C:\Users\Matej\prog\ChessEngines\ChessEngine\bin\Release\net8.0\ChessEngine.exe
+C:\Users\Matej\prog\ChessEngines\ChessEngine\bin\Release\net8.0\ChessEngine.deps.json
+C:\Users\Matej\prog\ChessEngines\ChessEngine\bin\Release\net8.0\ChessEngine.runtimeconfig.json
+C:\Users\Matej\prog\ChessEngines\ChessEngine\bin\Release\net8.0\ChessEngine.dll
+C:\Users\Matej\prog\ChessEngines\ChessEngine\bin\Release\net8.0\ChessEngine.pdb
+C:\Users\Matej\prog\ChessEngines\ChessEngine\obj\Release\net8.0\ChessEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matej\prog\ChessEngines\ChessEngine\obj\Release\net8.0\ChessEngine.AssemblyInfoInputs.cache
+C:\Users\Matej\prog\ChessEngines\ChessEngine\obj\Release\net8.0\ChessEngine.AssemblyInfo.cs
+C:\Users\Matej\prog\ChessEngines\ChessEngine\obj\Release\net8.0\ChessEngine.csproj.CoreCompileInputs.cache
+C:\Users\Matej\prog\ChessEngines\ChessEngine\obj\Release\net8.0\ChessEngine.dll
+C:\Users\Matej\prog\ChessEngines\ChessEngine\obj\Release\net8.0\refint\ChessEngine.dll
+C:\Users\Matej\prog\ChessEngines\ChessEngine\obj\Release\net8.0\ChessEngine.pdb
+C:\Users\Matej\prog\ChessEngines\ChessEngine\obj\Release\net8.0\ChessEngine.genruntimeconfig.cache
+C:\Users\Matej\prog\ChessEngines\ChessEngine\obj\Release\net8.0\ref\ChessEngine.dll
